@@ -36,6 +36,5 @@ print(main())
 
 '''
 Tips for input:
-    - after writing down the input press enter for coming to "next line" and then again press enter to get the result.
-
+- after writing down the input press enter for coming to "next line" and then again press enter to get the result.
 '''
